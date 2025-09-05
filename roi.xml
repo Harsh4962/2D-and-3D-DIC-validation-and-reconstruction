@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ROI>
+  <Polygon>
+    <Point x="40" y="0"/>
+    <Point x="40" y="491"/>
+    <Point x="41" y="492"/>
+    <Point x="41" y="855"/>
+    <Point x="42" y="856"/>
+    <Point x="42" y="1039"/>
+    <Point x="352" y="1039"/>
+    <Point x="352" y="850"/>
+    <Point x="351" y="849"/>
+    <Point x="351" y="663"/>
+    <Point x="350" y="662"/>
+    <Point x="350" y="476"/>
+    <Point x="349" y="475"/>
+    <Point x="349" y="290"/>
+    <Point x="348" y="289"/>
+    <Point x="348" y="0"/>
+  </Polygon>
+</ROI>
