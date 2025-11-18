@@ -157,9 +157,3 @@ This repository is suitable for:
 
 * RRMSE is provided for completeness but is not the preferred metric for DIC reconstruction quality.
   Due to the division by local pixel intensity, speckle patterns with many low-intensity regions can produce inflated relative errors despite high SSIM/PSNR and visually correct reconstructions.
-
-* A version with figures or example output snippets
-* A short “Getting Started” section
-* A citation section for including in your research paper
-
-Would you like those added?
